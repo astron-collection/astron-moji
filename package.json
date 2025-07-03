@@ -1,0 +1,26 @@
+{
+  "displayName": "Astron",
+  "license": "AGPL-3.0 license",
+  "description": "Astron Moji is the primary bot of the Astron Collection — a modular suite of advanced Discord applications.",
+  "author": "Sky Genesis Enterprise",
+  "email": "contact@skygenesisenterprise.com",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astron-collection/astron-moji.git"
+  },
+  "bugs": {
+    "url": "https://github.com/astron-collection/astron-moji/issues"
+  },
+  "homepage": "https://github.com/astron-collection/astron-moji#readme",
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.0.1",
+    "fs": "^0.0.1-security"
+  }
+}
